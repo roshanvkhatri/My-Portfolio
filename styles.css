@@ -1,0 +1,188 @@
+
+body{
+    
+
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+    background-image: url(/images/website\ bg.jpg) ;
+    background-size: cover;
+
+}
+
+h1{
+    width : 50%;
+    margin : 0 auto;
+    padding-top: 194px;
+    font-weight: 400;
+    font-family: 'Playfair Display', serif;
+    font-size: 5.6rem; 
+
+}
+
+p{
+    margin-bottom: 0;
+    margin: 0 auto;
+}
+
+.top{
+    background-image: url(https://cdn.dribbble.com/users/2002049/screenshots/5203380/sunset_sunrise_dribble_4_3.gif);
+    background-position: center;
+    
+    padding-top: 100px;
+    background-size: cover;
+    
+}
+.pro{
+    text-decoration-line: underline;
+}
+
+
+
+.cloudr{
+    position: absolute;
+    right: 285px;
+    width: 16%;
+}
+
+.cloudl{
+    position: absolute;
+    left: 285px;
+    top: 399px;
+    width: 16%
+}
+
+.inner{
+    position: relative;
+    bottom: 180px;
+
+}
+
+.mountain{
+    width: 70%;
+    margin-top: 60px;
+}
+
+.house{
+    width: 300px;
+
+}
+
+.tree1{
+    width: 200px;
+    margin-left: 250px;
+}
+
+.tree2{
+    width: 250px;
+}
+
+.Web{
+    width: 20%;
+    float: right;
+    margin-left: 20px;
+
+}
+
+.skill-row{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    padding-top: 50px ;
+}
+
+.bottom-container{
+    padding-top: 50px;
+    padding-bottom:50px;
+
+}
+
+.imge{
+    margin-top: 50px;
+}
+
+.contact-me{
+margin-top: 100px;
+margin-bottom: 50px;
+}
+
+.myButton {
+    box-shadow: 4px 5px 5px -1px #de006b;
+	background:linear-gradient(to bottom, #0fffff 5%, #ff6bb3 100%);
+	background-color:#0fffff;
+	border-radius:21px;
+	border:1px solid #b700ff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:20px;
+	padding:12px 36px;
+	text-decoration:none;
+	text-shadow:1px 3px 0px #0066ff;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ff6bb3 5%, #0fffff 100%);
+	background-color:#ff6bb3;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.footer-link{
+    margin: 50px;
+    color: unset;
+    text-decoration: none;
+   
+
+}
+
+.footer-link:hover{
+    color: #ff6bb3;
+}
+
+.top-line{
+    margin-top: 100px;
+
+}
+
+.copyright{
+    margin-top: 20px;
+}
+
+.btn{
+    margin : 50px auto 50px auto;
+}
+
+.webd{
+    
+    float: left;
+    margin-right: 20px;
+}
+
+.align{
+ text-align: right;
+}
+
+.profile{
+    
+}
+
+.tree2{
+    margin-right: 150px;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 10%;
+    font-style: oblique;
+}
+
+.skills{
+   
+    
+}
